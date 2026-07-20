@@ -12,9 +12,9 @@ export const metadata: Metadata = {
 
 const DEPARTMENTS = [
   { dept: "General Information", contact: "Cijo Mathew P", phone: "+91 94465 90666", email: "info@seablueshipyard.com" },
-  { dept: "Work Enquiries", contact: "Alan Richard", phone: "+91 97466 35711", email: "enquiry@seablueshipyard.com" },
+  { dept: "Work Enquiries", contact: "Alan Richard", phone: " ", email: "enquiry@seablueshipyard.com" },
   { dept: "Admin & IT", contact: "Nitheesh Krishnan", phone: "+91 73068 22503", email: "sm@seablueshipyard.com" },
-  { dept: "Commercial", contact: "Amruthraj Menon", phone: "+91 96334 86742", email: "admin@seablueshipyard.com" },
+  { dept: "Industrial Visit", contact: "Cijo Mathew P", phone: "+91 94465 90666", email: "iv@seablueshipyard.com" },
   { dept: "Business Development", contact: "C A Thomas", phone: "+91 94465 94666", email: "thomas@seablueshipyard.com" },
   { dept: "Marketing", contact: "Reji Mathew", phone: "+91 73068 00500", email: "bd@seablueshipyard.com" },
   { dept: "Production & Planning", contact: "George K C", phone: "+91 99956 92209", email: "production@seablueshipyard.com" },
