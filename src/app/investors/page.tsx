@@ -28,6 +28,7 @@ const OTHER_DOCS = [
   { label: "Financial Statement & Auditors' Report", href: "/documents/other/Financial-Statement-and-Audit-report.pdf" },
   { label: "Company Profile", href: "/documents/other/company-profile.pdf" },
   { label: "Vendor Registration Form", href: "/documents/other/Vendor-Registration-Form.pdf" },
+  { label: "RPT Policy", href: "/documents/other/RPT Policy.pdf" },
 ];
 
 export default function InvestorsPage() {
