@@ -9,7 +9,6 @@ export const metadata: Metadata = {
 };
 
 const NEWSLETTERS = [
-  { label: "E-Newsletter, Vol. 11 (November 2022)", href: "/documents/newsletters/newsletter-vol-11-nov-2022.pdf" },
   { label: "E-Newsletter - Jun26 Jul26 ", href: "/documents/newsletters/SBSL Newsletter Jun26 Jul26 .pdf" },
 ];
 
