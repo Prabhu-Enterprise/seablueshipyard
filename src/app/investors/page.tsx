@@ -29,6 +29,7 @@ const OTHER_DOCS = [
   { label: "Company Profile", href: "/documents/other/company-profile.pdf" },
   { label: "Vendor Registration Form", href: "/documents/other/Vendor-Registration-Form.pdf" },
   { label: "RPT Policy", href: "/documents/other/RPT Policy.pdf" },
+  { label: "POSH Policy", href: "/documents/other/POSH Policy.pdf" },
 ];
 
 export default function InvestorsPage() {
