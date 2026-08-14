@@ -14,7 +14,7 @@ export const COMPANY = {
   shortName: "Sea Blue Shipyard",
   founded: 2003,
   kochiAddress: "Vypin, Kochi, Kerala 682508, India",
-  kochiPhone: "+91 ",
+  kochiPhone: "+91 94465 90666",
   kochiEmail: "enquiry@seablueshipyard.com",
   infoEmail: "info@seablueshipyard.com",
   careerEmail: "career@seablueshipyard.com",
