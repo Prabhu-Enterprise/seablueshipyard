@@ -10,6 +10,7 @@ export const metadata: Metadata = {
 };
 
 const ANNUAL_REPORTS = [
+  { label: "Annual Report FY 2025-26", href: "/documents/annual-reports/Annual Report-FY 25-26.pdf" },
   { label: "Annual Report FY 2023-24", href: "/documents/annual-reports/annual-report-2023-24.pdf" },
   { label: "Annual Report FY 2022-23", href: "/documents/annual-reports/annual-report-2022-23.pdf" },
   { label: "Annual Report FY 2021-22", href: "/documents/annual-reports/annual-report-2021-22.pdf" },
