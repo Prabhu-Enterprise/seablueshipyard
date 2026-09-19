@@ -10,6 +10,14 @@ export const metadata: Metadata = {
 
 const NEWSLETTERS = [
   { label: "E-Newsletter - Jun26 Jul26 ", href: "/documents/newsletters/SBSL Newsletter Jun26 Jul26 .pdf" },
+  { label: "E-Newsletter - Feb26 Mar26 ", href: "/documents/newsletters/SBSL-Newsletter-FEB26'-MAR'26.pdf" },
+  { label: "E-Newsletter - Dec25 Jan26 ", href: "/documents/newsletters/SBSL-Newsletter-DEC'25-JAN'26.pdf" },
+  { label: "E-Newsletter - Oct25 Nov25 ", href: "/documents/newsletters/SBSL Newsletter OCT 25-NOV 25.pdf" },
+  { label: "E-Newsletter - Aug25 Sep25 ", href: "/documents/newsletters/SBSL Newsletter AUG 25-SEP 25.pdf" },
+  { label: "E-Newsletter - Jun25 Jul25 ", href: "/documents/newsletters/SBSL Newsletter JUN 25-JUL 25.pdf" },
+  { label: "E-Newsletter - Apr25 May25 ", href: "/documents/newsletters/SBSL Newsletter APR 25-MAY 25.pdf" },
+  { label: "E-Newsletter - Feb25 Mar25 ", href: "/documents/newsletters/SBSL Newsletter FEB 25-MAR 25.pdf" },
+  { label: "E-Newsletter - Dec24 Jan25 ", href: "/documents/newsletters/SBSL Newsletter DEC 24-JAN 25.pdf" },
 ];
 
 export default function NewsPage() {
