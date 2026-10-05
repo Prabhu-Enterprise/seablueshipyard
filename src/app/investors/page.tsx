@@ -19,6 +19,7 @@ const ANNUAL_REPORTS = [
 ];
 
 const NOTICES = [
+  { label: "23rd AGM Election Results", href: "/documents/notices/23rd AGM Election Results.pdf" },
   { label: "Corrigendum Notice of 23rd Annual General Meeting", href: "/documents/notices/Corrigendum Notice of 23rd Annual General Meeting.pdf" },
   { label: "Notice of 22nd Annual General Meeting", href: "/documents/notices/Notice-of-22nd-Annual-General-Meeting.pdf" },
   { label: "Notice of 21st Annual General Meeting", href: "/documents/notices/notice-21st-agm.pdf" },
