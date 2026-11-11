@@ -19,6 +19,7 @@ const ANNUAL_REPORTS = [
 ];
 
 const NOTICES = [
+  { label: "EGM Notice 2026-2027", href: "/documents/notices/SBSL_EGM Notice_2026-2027.pdf" },
   { label: "23rd AGM Election Results", href: "/documents/notices/23rd AGM Election Results.pdf" },
   { label: "Corrigendum Notice of 23rd Annual General Meeting", href: "/documents/notices/Corrigendum Notice of 23rd Annual General Meeting.pdf" },
   { label: "Notice of 22nd Annual General Meeting", href: "/documents/notices/Notice-of-22nd-Annual-General-Meeting.pdf" },
